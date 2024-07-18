@@ -7,11 +7,10 @@
 }
 
 :root {
-    --primary: #a97049;
-    --secondary: #88634a;
-    --gray: #67564b;
-    --black: #47494c;
-    --white: #ebe7e2;
+    --primary: #C80036;
+    --secondary: #FF6969;
+    --black: #0C1844;
+    --white: #FFF5E1;
 }
 
 .tc-primary {
@@ -20,10 +19,6 @@
 
 .tc-secondary {
     color: var(--secondary);
-}
-
-.tc-gray {
-    color: var(--gray);
 }
 
 .tc-black {
@@ -40,10 +35,6 @@
 
 .bc-secondary {
     background-color: var(--secondary);
-}
-
-.bc-gray {
-    background-color: var(--gray);
 }
 
 .bc-black {
